@@ -1,7 +1,6 @@
+![Hello](jujutsu-kaisen-gojo-satoru.gif)
+
 ### Hi, I'm Esther 👋
-
-![Hello](https://tenor.com/view/jujutsu-kaisen-gojo-satoru-satoru-gojo-wave-gojo-gif-23898312.gif)
-
 
 🌱 Currently learning C# (ASP.NET)<br>
 😄 Aspiring fullstack developer
