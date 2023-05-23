@@ -1,5 +1,6 @@
 ### Hi, I'm Esther 👋
-<img align="center" alt="Coding" width="400" src="https://tenor.com/view/jujutsu-kaisen-gojo-satoru-satoru-gojo-wave-gojo-gif-23898312">
+
+![Hello](https://tenor.com/view/jujutsu-kaisen-gojo-satoru-satoru-gojo-wave-gojo-gif-23898312.gif)
 
 
 🌱 Currently learning C# (ASP.NET)<br>
