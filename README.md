@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empty-codes&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **empty-codes/empty-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
