@@ -1,7 +1,5 @@
 ![Hello](jujutsu-kaisen-gojo-satoru.gif)
 
-### Hi, I'm Esther 👋
-
 🌱 Currently learning C# (ASP.NET)<br>
 😄 Aspiring fullstack developer
 
