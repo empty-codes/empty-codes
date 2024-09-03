@@ -1,6 +1,6 @@
 ![Hello](jujutsu-kaisen-gojo-satoru.gif)
 
-🌱 Currently learning C# (ASP.NET)<br>
+🌱 Currently learning C#<br>
 😄 Aspiring fullstack developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empty-codes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
