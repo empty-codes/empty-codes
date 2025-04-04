@@ -1,7 +1,7 @@
 ![Hello](jujutsu-kaisen-gojo-satoru.gif)
 
-🌱 Currently learning what backend development is<br>
-😄 Aspiring 2x dev (then maybe 4x, 6x, 8x and then 10x)
+🌱 Currently learning what backend development and software engineering is<br>
+😄 Aspiring 2x dev (then 4x, 6x, 8x and then 10x)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empty-codes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
