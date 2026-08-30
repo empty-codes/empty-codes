@@ -1,12 +1,4 @@
 ![Hello](jujutsu-kaisen-gojo-satoru.gif)
-
-🌱 Currently learning what backend development and software engineering is<br>
-😄 Aspiring 2x dev (then 4x, 6x, 8x and then 10x)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=empty-codes&label=Profile%20views&color=ff69b4&style=for-the-badge&abbreviated=true" alt="empty-codes" /> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=empty-codes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **empty-codes/empty-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
